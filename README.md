@@ -41,7 +41,7 @@ Initial release of ...
 
 ### 1.0.1
 
-Fixed issue #.
+Fixed issue  #..
 
 ### 1.1.0
 
